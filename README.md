@@ -9,3 +9,11 @@ As the user interacts with the four sliders, we notice transformations take plac
 
 <img src="https://github.com/kehyayan/Transformations/blob/81a7a02ffd1caf8cc543a98a5f4451328150fe5a/img/Transformed.jpeg" width=60% height=60%>
 
+Should the user require more assistance using the application, the "Need Help?" button allows the user to be familiar with the functionality of the application. 
+
+
+
+For users seeking clarification on which aspect of the base quadratic graph each variable/slider modifies, the "Transformations" button reveals a comprehensive breakdown of the role played by each variable.
+
+
+When the user feels confident with their knowledge of the concepts, t
