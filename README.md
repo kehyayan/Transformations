@@ -3,4 +3,4 @@ I designed and implemented a Java project focused on Graphical User Interface pr
 
 ![Alt text](/img/Intro.jpeg?raw=true,width="5",height"5" "Optional Title")
 
-<img src ="img/Intro.jpeg>
+<img src ="img/Intro.jpeg></img>
