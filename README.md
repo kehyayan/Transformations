@@ -22,3 +22,5 @@ When the user feels confident with their knowledge of the concepts, they may go 
 <img src="https://github.com/kehyayan/Transformations/blob/7770b4b092106fedc8eaeb38c63bb4bbb1565a96/img/CheckUnderstanding.png" width=60% height=60%>
 
 Once the questions have been answered, they are able to verify the correctness of their answers by clicking on the "Solutions of Understanding Questions" location in the bottom part of the user interface.
+
+To use the application, simply download the QuadTransform.jar file from the repository and exectue it on your computer. Please make sure that you have the latest JDK Development in order to be able to execute it, which you can download from the link https://www.oracle.com/java/technologies/downloads/#java8-windows for Windows and https://www.oracle.com/java/technologies/downloads/#jdk20-mac for MacOS.
